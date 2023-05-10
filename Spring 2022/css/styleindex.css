@@ -1,0 +1,65 @@
+.favorite-places{
+    color: orange;
+    border-bottom-width: 5px;
+    border-bottom-style:double;
+    border-bottom-color: aquamarine;
+    font-weight: 600;
+    font-size: large;
+    margin-bottom: 10px;
+}
+.picture-landcape{
+    width: 100px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    height: 100px;
+    object-fit: cover;
+}
+.favorite-content{
+    display: flex;
+    flex-direction: row;
+}
+.picture-landcape1{
+width: 100%;
+object-fit: cover;
+}
+.container h1{
+    text-align: center;
+}
+.container-center{
+    position: relative;
+}
+.container-content{
+    position: absolute;
+    bottom: 2px; 
+    left: 170px;
+}
+.container h3{
+    color: white;
+}
+.container h1{
+    color: rgb(13, 214, 214);
+    margin-bottom: 40px;
+}
+.container img{
+    width: 100%;
+}
+.container h2{
+    color: rgb(13, 214, 214);
+    text-align: center;
+}
+.container th{
+    color: rgb(136, 202, 37);
+    overflow-wrap: break-word ;
+}
+.table {
+color: rgb(229, 191, 20);
+text-align: center;
+}
+.footer{
+display: block;
+text-align: center;
+background-color: rgb(49, 162, 125);
+padding-top: 15px;
+padding-bottom: 15px;
+color: white;
+}

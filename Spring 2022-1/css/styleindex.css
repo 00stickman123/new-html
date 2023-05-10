@@ -1,0 +1,79 @@
+
+.logo img{
+    width: 80px;
+    height: 60px;
+    margin: 12px 0px;
+}
+.logo{
+    text-align: center;
+}
+.banner img{
+    width: 100%;
+    
+}
+body{
+    overflow-x: hidden;
+}
+.container h2{
+    text-align: center;
+}
+.container img{
+    width: 100%;
+}
+.bestSeller{
+    padding: 16px;
+    background-color: rgb(197, 183, 183);
+    position: relative;
+}
+
+.bestseller-content h5{
+    color: white;
+}
+.bestseller-content{
+position: absolute;
+background-color: rgba(197, 183, 183, 0.8);
+bottom: 0;
+left: 0;
+right: 0;
+} 
+.sale-off{
+    background-color: rgb(197, 183, 183);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.sale-off p{
+    color: rgb(15, 2, 2);
+}
+.sale-off span{
+    font-weight: 700;
+}
+.item-name-discount span{
+    color: red;
+    font-weight: 400;
+}
+.item-name {
+    border-bottom-style: solid;
+    border-bottom-width:1px ;
+}
+.sale-off-item{
+    height: 420px;
+    object-fit: cover;
+}
+.SHOWROOM-SOUNDPEATS h2{
+padding-top: 10px;
+padding-bottom: 15px;
+}
+.google-map{
+    height: 416.25px;
+    width: 555px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+    text-align: center;
+  
+}

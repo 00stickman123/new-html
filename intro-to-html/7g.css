@@ -1,0 +1,61 @@
+p{
+    margin: 0;
+    color: grey;
+}
+.profile{
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.profile img{
+    width: 100%;
+}
+.grid-content{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.add-friends{
+    margin-bottom: 5px;
+   margin-left: 5px;
+   padding: 7px 10px;
+   background-color: blue;
+   border: none;
+   color: white;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.content h4{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.box-1{
+    display: flex;
+    border-style: solid;
+    height: 100px;
+ margin-top: 10px;
+ justify-content: space-between;
+ align-items: center;
+ 
+}
+.box-1 p{
+    text-align: center;
+    color: black;
+}
+.left{
+background-color: lightgreen;
+flex: 1;
+}
+.middle{
+background-color: lightblue;
+flex: 2;
+}
+.right{
+background-color: lightpink;
+flex: 1;
+}

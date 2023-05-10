@@ -1,0 +1,33 @@
+input{
+    height: 40px;
+    font-weight: 500;
+    padding-left: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+}
+.email{
+    display: block;
+    margin-top: 12px;
+    width: 314px;
+}
+.first{
+    width: 148px;
+}
+.last{
+    width: 148px;
+}
+.sign{
+    width: 328px;
+    height: 50px;
+    margin-top: 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(71, 133, 240);
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+

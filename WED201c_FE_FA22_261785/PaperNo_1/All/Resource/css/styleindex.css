@@ -1,0 +1,80 @@
+
+.search input{
+    margin-top: 50px;
+}
+.guilde h3{
+    margin-top: 52px;
+}
+.navbar-nav{
+    display: flex;
+    text-align: center;
+   
+}
+.footer{
+    text-align: center;
+    background-color: rgb(44, 182, 187);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    margin-top: 20px;
+}
+.hotel h1{
+    color: rgb(61, 218, 223);
+    text-align: center;
+}
+.hotel{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.xelimosine{
+    width: 570px;
+}
+.hotel-picture{
+    width: 570px;  
+}
+.transportaion{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.transportaion h1{
+    color: rgb(61, 218, 223);
+    text-align: center;
+}
+.camnang h1{
+    color: rgb(61, 218, 223);
+    text-align: center;
+    margin-bottom: 30px;
+}
+.content p{
+   font-size: 18px
+}
+.camnang p{
+    text-align:justify;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 500;
+    font-size: 22px;
+}
+.beach{
+    width: 1160px;
+}
+.logo{
+    width: 130px;
+    height: 140px;
+    margin-left: 0;
+}
+.guilde h3{
+    text-align: center;
+    vertical-align: middle;
+}
+.navbar{
+    background-color: rgb(60, 218, 223);
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.xegiuongnam{
+    font-size: 17px;
+}
+
+
